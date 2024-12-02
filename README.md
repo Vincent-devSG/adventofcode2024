@@ -6,4 +6,5 @@ I will be solving the Advent of Code 2024 puzzles in Python. I will be using thi
 
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
-| 1   |        |        |
+| 1   | :star: | :star: |
+| 2   | :star: | :star: |
