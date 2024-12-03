@@ -8,3 +8,5 @@ I will be solving the Advent of Code 2024 puzzles in Python. I will be using thi
 | --- | ------ | ------ |
 | 1   | :star: | :star: |
 | 2   | :star: | :star: |
+| 3   | :star: | :star: |
+| 4   |        |        |   
